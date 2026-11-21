@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Paper Printing</fullName>
+        <default>false</default>
+        <label>Paper Printing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Flyers</fullName>
+        <default>false</default>
+        <label>Flyers</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Postcards</fullName>
+        <default>false</default>
+        <label>Postcards</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Business Printing</fullName>
+        <default>false</default>
+        <label>Business Printing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Promotional Products</fullName>
+        <default>false</default>
+        <label>Promotional Products</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Post-processing</fullName>
+        <default>false</default>
+        <label>Post-processing</label>
+    </standardValue>
+</StandardValueSet>
