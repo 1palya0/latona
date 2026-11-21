@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Private</cacheControl>
+    <contentType>text/csv</contentType>
+    <description>Latona product catalog (spec, section 4): ProductCode, Name, Family, QuantityUnitOfMeasure, UnitPrice (UAH incl. VAT). Loaded by scripts/apex/load_latona_product_catalog.apex.</description>
+</StaticResource>
