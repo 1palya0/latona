@@ -32,10 +32,10 @@
         <won>false</won>
     </standardValue>
     <standardValue>
-        <fullName>In Production</fullName>
+        <fullName>Done</fullName>
         <default>false</default>
-        <description>Order is being printed.</description>
-        <label>In Production</label>
+        <description>Order is printed and ready for delivery to the customer.</description>
+        <label>Done</label>
         <closed>false</closed>
         <forecastCategory>Forecast</forecastCategory>
         <probability>90</probability>

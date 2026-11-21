@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomNotificationType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customNotifTypeName>Latona Opportunity Update</customNotifTypeName>
+    <description>Opportunity stage changed, won or lost. Sent by the Latona_Opportunity_Stage_Notifications Flow.</description>
+    <desktop>true</desktop>
+    <masterLabel>Latona Opportunity Update</masterLabel>
+    <mobile>true</mobile>
+</CustomNotificationType>
