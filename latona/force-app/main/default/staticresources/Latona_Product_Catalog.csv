@@ -1,0 +1,12 @@
+ProductCode,Name,Family,QuantityUnitOfMeasure,UnitPrice
+LAT-PP-A4-BW,"A4 print, B&W",Paper Printing,sheet,3.00
+LAT-PP-A4-CLR,"A4 print, color",Paper Printing,sheet,12.00
+LAT-FL-A5-130,"A5 flyer, 130 g/m²",Flyers,pc,4.00
+LAT-FL-A6-130,"A6 flyer, 130 g/m²",Flyers,pc,2.50
+LAT-PC-10X15-300,"Postcard 10×15 cm, 300 g/m²",Postcards,pc,7.00
+LAT-BP-BC-300,"Business card 90×50 mm, 300 g/m²",Business Printing,pc,1.80
+LAT-PR-POSTER-A2,A2 poster,Promotional Products,pc,85.00
+LAT-PR-BOOKLET-A4,"A4 booklet, 2 folds",Promotional Products,pc,9.00
+LAT-PR-BANNER,Banner (banner fabric),Promotional Products,m²,350.00
+LAT-POST-LAM-A4,A4 lamination,Post-processing,sheet,8.00
+LAT-POST-CUT,Cutting,Post-processing,order,50.00

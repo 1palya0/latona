@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Format__c</fullName>
+    <description>Finished product format.</description>
+    <externalId>false</externalId>
+    <label>Format</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>A2</fullName>
+                <default>false</default>
+                <label>A2</label>
+            </value>
+            <value>
+                <fullName>A3</fullName>
+                <default>false</default>
+                <label>A3</label>
+            </value>
+            <value>
+                <fullName>A4</fullName>
+                <default>false</default>
+                <label>A4</label>
+            </value>
+            <value>
+                <fullName>A5</fullName>
+                <default>false</default>
+                <label>A5</label>
+            </value>
+            <value>
+                <fullName>A6</fullName>
+                <default>false</default>
+                <label>A6</label>
+            </value>
+            <value>
+                <fullName>10x15 cm</fullName>
+                <default>false</default>
+                <label>10x15 cm</label>
+            </value>
+            <value>
+                <fullName>90x50 mm</fullName>
+                <default>false</default>
+                <label>90x50 mm</label>
+            </value>
+            <value>
+                <fullName>Custom</fullName>
+                <default>false</default>
+                <label>Custom</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
